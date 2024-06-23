@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="flex flex-col items-start justify-center gap-[10%]
             md:flex-row">
                 <Link href="/" className="mb-10">
-                    <Image src = "/spaLogo.png" alt ="logo" width={74} height={29}/>
+                    <Image src = "hilink-logo.svg" alt ="logo" width={74} height={29}/>
                 </Link>
                 <div className='flex flex-wrap gap-10
                  sm:justify-between md:flex-1'>
